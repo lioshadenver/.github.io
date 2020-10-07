@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <title>Резюме</title>
+    <link rel="stylesheet" href=style.css>
+  </head>
+  
+  <body>
+  
+      <div id="header">
+        <h1>Попитич Алексей Александрович</h1>
+        <h2 class="header-title">Программист. Веб-разработчик</h2>
+        <p><a href="mailto:lioshadenver@mail.ru">lioshadenver@mail.ru </a><a href="#">github.com</a></p>
+      </div>
+
+    
+
+      <div id="main">
+        <p>Созерцание непредсказуемо. Смысл жизни, следовательно,
+        творит данный закон внешнего мира. Дедуктивный метод
+        решительно представляет собой бабувизм.
+        Апостериори, гравитационный парадокс</p>
+        <h2>Опыт работы</h2>
+        <ul>
+          <li>"Пицца Лисицца" Разработчик ПО <span class="date">ноябрь 2018 - февраль 2019</span></li>
+          <li>"Menu.by" Создание и поддержка сайта <span class="date">май 2020 - июль 2020</span></li>
+        </ul>
+        <h2>Образование</h2>
+        <ul>
+          <li>ПГАТК</li>
+          <li>БНТУ</li>
+        </ul>
+        <h2>Другие навыки и увлечения</h2>
+        <p>
+          <ul>
+            <li>Сноуборд</li>
+            <li>Лубительская игра на гитаре</li>
+            <li>Веб-дизайн</li>
+            <li>Художественная литература</li>
+          </ul>
+      </div>
+
+    
+
+      <div id="footer">
+        <p>
+          Алексей Попитич<br>
+          пр. Независимости, 148/2, Минск, Беларусь, +375297285855, <a href="mailto:lioshadenver@mail.ru">lioshadenver@mail.ru</a>
+        </p>
+      </div>
+
+  </body>
+</html>
